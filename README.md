@@ -4,7 +4,9 @@ NUI input system for QBCore
 
 This is a modified version of **[NH Keyboard](https://forum.cfx.re/t/no-longer-supported-standalone-nerohiro-s-keyboard-dynamic-nui-keyboard-input/2506326)** by **[NeroHiro](https://github.com/nerohiro)**
 
-## Example
+## Example!
+preview [image](https://github.com/ItzMuri/qb-input-np-inspire/assets/88394932/967e60a2-6095-448a-8943-0b8c0fa562a6)
+
 
 Here is an example commant which will create a basic form and will print out it's inputs:
 
